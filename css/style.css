@@ -13,6 +13,10 @@ body {
     position: relative;
 }
 
+#started {
+  padding: 10px;
+}
+
 #form {
     position: relative;
 }
